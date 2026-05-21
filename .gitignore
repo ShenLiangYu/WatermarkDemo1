@@ -1,40 +1,29 @@
 ```
 # Build artifacts
+*.resx
 bin/
 obj/
+Debug/
+Release/
 *.exe
 *.dll
 *.pdb
 *.userprefs
-*.cache
-*.log
 
 # Dependencies
 packages/
 node_modules/
+.nuget/
 
-# User-specific files
+# Editors
 .vs/
+.idea/
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
 
-# Environment specific settings
-.env
-.env.local
-*.env.*
-
-# OS generated files
+# OS
 .DS_Store
 Thumbs.db
-desktop.ini
-
-# IDE
-.vscode/
-.idea/
-
-# Temporary files
-*.tmp
-*~
 ```
