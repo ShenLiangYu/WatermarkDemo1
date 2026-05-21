@@ -1,0 +1,13 @@
+{
+  "Watermark": {
+    "Text": "CONFIDENTIAL",
+    "FontSize": 24,
+    "FontFamily": "Arial",
+    "FontStyle": "Bold",
+    "Color": "#808080",
+    "Opacity": 0.3,
+    "Angle": -45,
+    "HorizontalSpacing": 200,
+    "VerticalSpacing": 150
+  }
+}
